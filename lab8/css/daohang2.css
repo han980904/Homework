@@ -1,0 +1,13 @@
+
+body{
+	background-image: url(../images/bj.png);
+	background-repeat: no-repeat;
+}
+td{
+	width:  180px;
+	height: 46px;
+	background-image: url(../images/baibiaoti.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: center;
+}

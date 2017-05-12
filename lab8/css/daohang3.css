@@ -1,0 +1,29 @@
+ul{
+	list-style-type: none;
+	height: 40px;
+	text-align: center;
+	border-top: 20px;
+}
+li{	
+	display: inline;
+	text-align: center;
+	border-top: 20px;
+}
+.menu{
+	margin:auto;
+	width:1005px;
+	background:url(../images/bg.gif) 
+	top no-repeat;
+	text-align: center;
+	border-top: 20px;
+}
+#li1{
+	color:#b9f605;
+}
+#li2{
+	color: #fdb306;
+}
+a{
+	color: #ffffff;
+	text-decoration: none;
+}
