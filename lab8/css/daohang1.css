@@ -30,9 +30,9 @@ ul li{
 	width: 183px;
 	height: 35px;
 }
-a{
+a:link{
 	text-decoration: none;
-	color:black;
+	color: #333;
 }
 a:hover{
 	color: red;
