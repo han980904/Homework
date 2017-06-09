@@ -13,13 +13,11 @@ img{
 
 }
 .images a:hover img{
-	
 	opacity: 1;
 }
 .images img{
 	display: inline;
 	margin:3px;
-	
 	width: 200px;
 	height: 160px;
 
