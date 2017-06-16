@@ -1,0 +1,311 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-size: 12px;
+	color: #522a06;
+	font-family: '宋体';
+
+	border-image: none;
+	list-style-type: none;
+	text-decoration: none;
+}
+body{
+	
+}
+a:link{
+	color: #522a06;
+}
+a:hover{
+	text-decoration: underline;
+}
+body{
+	background-image: url(../images/bodybg.gif);
+}
+#header{
+	
+}
+#banner{
+
+	height: 205px;
+	background-image: url(../images/bg.gif);
+	background-position: center top;
+
+}
+#logo{
+	margin-left: 200px;
+	padding-top: 20px;
+	
+}
+#nav{
+	margin-top: 42px;
+	height: 40px;
+	background-image: url(../images/nav.jpg);
+}
+.nav_body{
+	width: 1000px;
+	text-align: center ;
+	
+	margin: auto;
+}
+.nav_content{
+	width: 800px;
+	height: 40px;
+	font-weight: bold;
+	
+	margin:auto;
+}
+.nav_content ul li{
+	color: #fff;
+	line-height: 40px;
+
+	float: left;
+}
+.nav_content ul li a{
+	color: #fff;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+.nav_content ul li a:hover{
+	color: #f9f603;
+	text-decoration: none;
+}
+#special{
+	color: #f9f603;
+}
+.nav_search{
+	width: 200px;
+	margin-top: -32px;
+	margin-left: 800px;
+	float: left;
+}
+.text{
+	width: 140px;
+	height: 19px;
+	float: left;
+}
+.button{
+	width: 44px;
+	height: 23px;
+	background-color: #000;
+	color: #fff;
+	border: 1px solid #f8f5ee;
+	float: left;
+}
+#content{
+	clear: left;
+	clear: right;
+	width: 1000px;
+	
+	margin: auto;
+}
+#content_top{
+	overflow: hidden;
+}
+.news_pic{
+	width: 324px;
+	height: 243px;
+	background-image: url(../images/news_bg.png);
+	float: left;
+}
+.news_pic img{
+	width: 300px;
+	height: 200px;
+	padding-left: 13px;
+	padding-top: 10px;
+}
+.news_pic span{
+	width: 300px;
+	height: 20px;
+	margin-left: 80px;
+}
+.news_list{
+	width: 300px;
+	margin-left: 50px;
+	float: left;
+}
+.list_title{
+	background-image: url(../images/change.png);
+	background-repeat: no-repeat;
+}
+.list_title span{
+	margin-left:280px;
+}
+.news_list ul{
+	list-style-image: url(../images/pot.gif);
+}
+.news_list ul li{
+	line-height: 24px;
+}
+
+
+.news_announce{
+	width: 277px;
+	float: right;
+}
+.news_announce img{
+	padding-left: 70px;
+}
+.announce_list{
+	margin-left
+	width: 285px;
+	height: 210px;
+	background-image: url(../images/board_bg.png);
+}
+.announce_list ul{
+	padding-left: 20px;
+	list-style-image: url(../images/pot.gif);
+}
+.announce_list ul li{
+	line-height: 24px;
+}
+#content_bottom_left{
+	width: 715px;
+	float: left;
+}
+
+
+.academic{
+	width: 340px;
+}
+.academic_title{
+	background-image: url(../images/academic.png);
+	background-repeat: no-repeat;
+	height: 54px;
+}
+.academic_title span{
+	margin-left:320px;
+}
+.academic ul{
+	margin-left: 20px;
+	list-style-image: url(../images/pot.gif);
+}
+.academic ul li{
+	line-height: 24px;
+}
+
+
+.book_news{
+	width: 340px;
+	margin-left: 25px;
+	float: right;
+	margin-top: -220px;
+}
+.book_titlt{
+	background-image: url(../images/book_news.png);
+	background-repeat: no-repeat;
+	height: 54px;
+}
+.book_news ul{
+	margin-left: 20px;
+	list-style-image: url(../images/pot.gif);
+}
+.book_news ul li{
+	line-height: 24px;
+}
+
+
+.fengcai{
+	width: 700px;
+	
+	clear: left;
+	clear: right;
+}
+.fengcai_title{
+	background-image: url(../images/fengcai_bg1.png);
+	background-repeat: no-repeat;
+	height: 57px;
+}
+.fengcai_title span{
+	margin-left: 690px;
+}
+.fengcai_pic{
+	height: 136px;
+	padding: 20px;
+	background-image: url(../images/fengcai_bg2.png);
+	background-repeat: no-repeat;
+}
+.fengcai_pic ul li{
+	float: left;
+	padding-left: 5px;
+}
+
+
+
+
+
+#content_bottom_right{
+	float: right;
+	width: 280px;
+	height: 400px;
+	position: relative;
+	left: 300px;
+	top:-440px;
+	clear: left;
+	clear: right;
+}
+.show_pic img{
+	margin-top: 20px;
+	margin-left: 70px;
+}
+.show{
+	background-image: url(../images/show_bg.png);
+	background-repeat: no-repeat;
+	margin-top: 10px;
+	height: 362px;
+
+}
+.show img{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.show div{
+	width: 220px;
+	padding-left: 20px;
+}
+.show div span{
+	color: red;
+}
+
+
+#footer{
+	height: 105px;
+   	clear: both;
+   	background-image: url(../images/foot.gif);
+   	width: 1500px;
+   	position: absolute;
+    left: -150px;
+    top:1070px; 
+}
+#foot{
+	margin-left: 450px;
+}
+.list{
+   	float: left;
+   	margin-left: 20px;
+   	margin-top: 40px;
+   	color: #522a06;
+   	padding-right: 5px;
+    font-size: 16px;
+    text-decoration:none;
+}
+.list a{
+	float: left;
+}
+#br{
+   	margin-top: 65px;
+   	margin-left: -525px;
+}
+#di{
+	text-align: center;
+   	margin-left: 590px;
+   	font-size: 10px;
+ }
+
+
+
+
+
+
+
+
+
