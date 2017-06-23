@@ -1,0 +1,52 @@
+.content_box{
+	margin: auto;
+	width: 960px;
+	margin-top: 35px;
+	background-image: url(../images/menpai/menpai.jpg);
+	background-repeat: no-repeat;
+}
+.content_box h3{
+	width: 165px;
+    height: 31px;
+    margin-left: 37px;
+    font-size: 23px;
+    color: #FFF;
+    line-height: 31px;
+    text-align: center;
+}
+.box_content{
+	width: 958px;
+    margin-top: 9px;
+    border: 1px solid #ddd;
+    background: #f0f0f0;
+    overflow: auto;
+}
+.p1{
+    text-align: center;
+    font-weight: bold;
+}
+.box_content_left p{
+    width: 540px;
+    font-size: 20px;
+    margin: 5px auto auto 12px;
+    line-height: 21px;
+    text-indent: 2em;
+}
+.box_content_right_1{
+	width: 300px;
+	height: 200px;
+    float: right;
+    margin: -200px auto 23px 0;
+}
+.box_content_right_1 img{
+    width: 200px;
+}
+.box_content_right_2 img{
+    width: 150px;
+}
+.box_content_right_2{
+	margin: -200px auto 23px 0;
+	float: right;
+	width: 100px;
+	height: 100px;
+}

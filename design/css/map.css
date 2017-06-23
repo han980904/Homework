@@ -1,0 +1,36 @@
+#content{
+	width: 900px;
+	margin: auto;
+	background-image: url(../images/list/list_bg.png);
+	background-repeat: no-repeat;
+}
+.list{
+	margin: auto;
+	width: 900px;
+}
+.list_top{
+	margin: auto;
+	height: 70px;
+	width: 200px;
+}
+.list_top p{
+	font-size: 50px;
+	color: #34c3ff;
+}
+.list_content{
+	margin: auto;
+	margin-top: 10px;	
+	width: 700px;
+}
+
+.list_content ul li{
+	line-height: 60px;
+}
+.list_content ul li span{
+	color: #FFF;
+	background-image: url(../images/list/li.png);
+}
+.list_content ul li a{
+	margin-left: 40px;
+	color: #000;
+}

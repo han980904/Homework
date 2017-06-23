@@ -1,0 +1,58 @@
+/*通用样式*/
+*{
+	margin: 0px;
+	padding: 0px;
+}
+ul,ol,li{
+	list-style-type: none;
+}
+a:link{
+	text-decoration: none;
+}
+
+/*内容部分*/
+#content{
+	margin: auto;
+	height: 800px;
+	width: 958px;
+	
+}
+.content1{
+	height: 400px;
+	width: 479px;
+	float: left;
+	background-image: url(../images/15.png);
+}
+.biaoti p{
+	text-align: left;
+	font-size: 40px;
+	position: relative;
+	left: 250px;
+	top:50px;
+	color: #000;
+}
+
+.pic img{
+	width: 200px;
+	position: relative;
+	top:-200px;
+
+}
+.content2{
+	height: 400px;
+	width: 479px;
+	background-image: url(../images/18.png);
+	float: left;
+}
+.content3{
+	height: 400px;
+	width: 479px;
+	background-image: url(../images/shipin.png);
+	float: left;
+}
+.content4{
+	height: 400px;
+	width: 479px;
+	background-image: url(../images/ditu.png);
+	float: left;
+}

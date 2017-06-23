@@ -1,0 +1,61 @@
+/*页面内容*/
+#content{
+	width: 900px;
+	margin: auto;
+	
+	background-repeat: no-repeat;
+}
+.content1{
+	margin: auto;
+	width: 900px;
+	height: 600px;
+}
+.content2{
+	margin: auto;
+	width: 800px;
+}
+.map_top{
+	height: 80px;
+}
+.map_top p{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 40px;
+	color: #58a0ab;
+}
+.video video{
+	margin: auto;
+	float: left;
+	margin-left: 25px;
+	margin-top: 10px;
+	width: 750px;
+	height: 490px;
+}
+.list ul li{
+	float: left;
+	margin-left: 60px;
+	margin-top: 20px;
+	line-height: 30px;
+	background-image: url(../images/nav_bg.png);
+	opacity: 0.7;
+	filter:alpha(opacity=40); /* 针对 IE8 以及更早的版本 */
+	background-color: #5f1a0a;
+}
+.list ul li a{
+	color: #fedd5a;
+	font-size: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

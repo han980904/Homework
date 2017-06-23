@@ -1,0 +1,52 @@
+/*页面内容*/
+#content{
+	width: 900px;
+	margin: auto;
+	background-image: url(../images/list/list_bg.png);
+	background-repeat: no-repeat;
+}
+.content1{
+	margin: auto;
+	width: 900px;
+	height: 1050px;
+}
+.content2{
+	margin: auto;
+	width: 800px;
+}
+.map_top{
+	height: 80px;
+}
+.map_top p{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 40px;
+	color: #58a0ab;
+}
+.map{
+	float: left;
+	margin-left: 16px;
+	margin-top: 10px;
+}
+.map a img {
+	width: 375px;
+	height: 200px;
+	background-color: #000;
+}
+.map p{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
