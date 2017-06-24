@@ -14,8 +14,10 @@
 	margin: auto;
 	height: 70px;
 	width: 200px;
+	width: 300px\9;
 }
 .list_top p{
+	padding-top: 10px\9;
 	font-size: 50px;
 	color: #34c3ff;
 }

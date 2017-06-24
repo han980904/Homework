@@ -6,7 +6,11 @@
 ul,ol,li{
 	list-style: none;
 }
+
 a:link{
+	text-decoration: none;
+}
+a{
 	text-decoration: none;
 }
 /*body部分*/
